@@ -197,13 +197,15 @@ The Microsoft Fabric Lakehouse contains all Bronze, Silver, and Gold tables used
 
 ---
 
-# SQL View
+## SQL Views
 
-A reporting view was created for analytics consumption.
+The SQL reporting view is created in:
 
-```
-vw_sales_analysis
-```
+- `05_views.ipynb`
+
+Generated view:
+
+- `vw_sales_analysis`
 
 ---
 
