@@ -1,0 +1,101 @@
+CustomerID,FirstName,LastName,Gender,BirthDate,Email,Phone,City,Region,Country,LoyaltyLevel,RegistrationChannel,EmailVerified,IsActive,JoinDate
+17,Earl,Anderson,Female,2000-10-22,michael05@example.org,1586923226,Abha,Southern,Saudi Arabia,Gold,Website,True,False,2024-06-30
+32,Jason,Salinas,Male,2001-07-30,joshua94@example.net,8313678377,Jeddah,Western,Saudi Arabia,Gold,Store,False,True,2022-06-29
+222,Erin,Jacobs,Female,1980-12-08,tiffanymitchell@example.com,7169472256,Dammam,Eastern,Saudi Arabia,Gold,Website,True,True,2023-05-04
+255,Garrett,Phillips,Female,1997-12-11,vaughnrebecca@example.com,1812982665,Taif,Western,Saudi Arabia,Platinum,Mobile App,False,False,2023-01-05
+260,Barry,Mack,Male,1996-10-20,miguel61@example.com,4721458683,Khobar,Eastern,Saudi Arabia,Platinum,Website,False,False,2023-05-21
+58,Colin,Rodgers,Male,2000-09-04,angelawillis@example.net,1656049451,Tabuk,Northern,Saudi Arabia,Gold,Store,True,True,2022-01-18
+313,Eric,Evans,Male,1972-02-20,qmartinez@example.com,2730147195,Makkah,Western,Saudi Arabia,Bronze,Mobile App,False,False,2025-07-16
+588,Katie,Joyce,Male,1975-03-08,wpierce@example.org,9455158886,Abha,Southern,Saudi Arabia,Silver,Store,True,True,2025-11-28
+622,Michelle,Wagner,Female,2007-11-05,gwilkins@example.org,3035892988,Dammam,Eastern,Saudi Arabia,Bronze,Mobile App,True,False,2021-12-30
+624,Sharon,Smith,Female,1983-07-31,jeanette43@example.net,622723626,Tabuk,Northern,Saudi Arabia,Platinum,Website,True,True,2022-04-06
+646,Brian,Bryan,Male,1970-06-07,hrodgers@example.org,317235137,Madinah,Western,Saudi Arabia,Bronze,Store,True,True,2026-05-28
+780,April,Davis,Female,2006-12-31,ronaldbradford@example.org,835669106,Jeddah,Western,Saudi Arabia,Bronze,Mobile App,True,True,2025-04-20
+958,Stephanie,Thompson,Male,1969-11-22,watsonkenneth@example.net,5826868764,Khobar,Eastern,Saudi Arabia,Gold,Mobile App,True,True,2022-05-05
+997,Benjamin,Caldwell,Male,2007-06-04,taylortina@example.org,2763628144,Makkah,Western,Saudi Arabia,Platinum,Mobile App,False,True,2026-05-27
+300,Angela,Smith,Female,1982-11-06,idodson@example.com,3107427990,Jazan,Southern,Saudi Arabia,Gold,Website,True,True,2022-10-14
+348,Jasmine,Castillo,Female,1962-12-10,brooke05@example.org,5923045018,Riyadh,Central,Saudi Arabia,Platinum,Website,True,True,2023-11-19
+395,Steven,Oliver,Female,1978-02-09,bhayes@example.com,7546027341,Dammam,Eastern,Saudi Arabia,Gold,Website,True,True,2024-07-02
+872,Virginia,Bryant,Male,1961-10-03,amoon@example.com,5967150066,Tabuk,Northern,Saudi Arabia,Bronze,Website,False,True,2025-04-01
+1000,Kimberly,Cannon,Female,2001-01-08,harrisstacey@example.net,8738775833,Abha,Southern,Saudi Arabia,Platinum,Store,True,True,2025-09-08
+373,Bethany,Miller,Female,2000-07-30,richard07@example.org,6260856411,Tabuk,Northern,Saudi Arabia,Platinum,Website,True,True,2025-10-11
+491,Nathaniel,Chen,Male,1981-10-05,colepamela@example.net,9649856012,Tabuk,Northern,Saudi Arabia,Silver,Mobile App,True,True,2024-06-02
+592,Kaitlyn,Fleming,Male,1995-07-09,ecamacho@example.com,6481980770,Taif,Western,Saudi Arabia,Gold,Store,True,True,2021-12-06
+795,Jessica,Jackson,Female,1976-01-07,brandon64@example.net,1644037341,Khobar,Eastern,Saudi Arabia,Silver,Mobile App,False,True,2024-07-18
+877,Julie,Freeman,Female,1975-04-02,yguzman@example.org,8824199626,Riyadh,Central,Saudi Arabia,Gold,Mobile App,False,True,2022-01-12
+920,Kimberly,Thompson,Female,1978-01-31,burkejacob@example.net,3525953322,Madinah,Western,Saudi Arabia,Bronze,Store,False,False,2022-05-09
+98,Elizabeth,Lopez,Male,1985-10-20,thomasboyle@example.org,6374549904,Riyadh,Central,Saudi Arabia,Gold,Website,True,True,2022-01-06
+533,Joshua,Bishop,Female,1964-05-03,stephanie72@example.com,4723229031,Makkah,Western,Saudi Arabia,Bronze,Website,True,True,2026-04-12
+325,Ebony,Henry,Female,1998-11-04,amy88@example.org,6167567700,Tabuk,Northern,Saudi Arabia,Silver,Store,True,True,2022-08-04
+445,Ross,White,Female,1980-03-01,daniel77@example.org,5605313402,Dammam,Eastern,Saudi Arabia,Platinum,Website,False,True,2023-01-29
+517,Diana,Hart,Male,1969-10-14,yespinoza@example.org,4617679298,Tabuk,Northern,Saudi Arabia,Silver,Website,True,True,2022-05-04
+694,Brittney,Shelton,Male,2004-10-20,portermichael@example.com,6816995706,Riyadh,Central,Saudi Arabia,Gold,Store,True,False,2024-10-04
+910,Jennifer,Barrett,Female,1995-08-18,mbaker@example.net,3247250583,Dammam,Eastern,Saudi Arabia,Gold,Website,True,True,2026-02-13
+985,Jill,Ramos,Male,2002-06-11,lmahoney@example.com,4336299946,Madinah,Western,Saudi Arabia,Bronze,Store,False,True,2024-01-25
+206,Zachary,Sullivan,Male,1969-05-27,johnsjessica@example.com,3797723692,Jeddah,Western,Saudi Arabia,Bronze,Website,False,True,2026-03-13
+404,Daniel,Miranda,Male,2008-05-12,robert24@example.org,7017656360,Jeddah,Western,Saudi Arabia,Silver,Website,True,False,2021-12-18
+968,Lynn,Ferguson,Female,1979-04-19,cherylgomez@example.org,5734989925,Jeddah,Western,Saudi Arabia,Silver,Website,True,True,2025-01-23
+130,Jane,Roberts,Female,1986-11-27,stephanie81@example.org,422325367,Jazan,Southern,Saudi Arabia,Gold,Website,True,True,2023-03-15
+224,Christopher,Jackson,Female,2005-10-13,davissharon@example.com,681149216,Tabuk,Northern,Saudi Arabia,Bronze,Mobile App,True,True,2025-02-01
+631,Mary,Perez,Male,1990-07-22,craig16@example.com,2634755752,Khobar,Eastern,Saudi Arabia,Bronze,Store,True,True,2025-04-13
+963,Marc,Williams,Male,1970-06-12,josephmercado@example.org,5826929900,Tabuk,Northern,Saudi Arabia,Silver,Store,True,True,2022-01-24
+288,Kristen,Fernandez,Female,2001-04-02,cruzhannah@example.com,9855460158,Khobar,Eastern,Saudi Arabia,Bronze,Store,True,False,2025-06-27
+361,Rhonda,Moore,Male,1991-03-11,jean87@example.net,2552137603,Madinah,Western,Saudi Arabia,Bronze,Store,False,False,2025-12-09
+542,Joshua,Mejia,Male,1969-11-21,kennethpeterson@example.net,4565220368,Abha,Southern,Saudi Arabia,Gold,Website,True,True,2025-03-13
+651,Eric,Villarreal,Male,1963-08-23,sandra57@example.org,6624813235,Makkah,Western,Saudi Arabia,Gold,Mobile App,False,False,2021-08-26
+723,Zachary,Martinez,Female,1974-12-23,bblake@example.net,8981265742,Makkah,Western,Saudi Arabia,Gold,Mobile App,True,True,2021-11-02
+189,Heather,Schwartz,Female,1985-08-06,housepaul@example.net,8004397359,Abha,Southern,Saudi Arabia,Silver,Website,False,True,2025-07-26
+382,Sherry,Williams,Female,2005-08-30,ryan64@example.org,7580304687,Khobar,Eastern,Saudi Arabia,Gold,Store,False,True,2024-10-15
+429,Erica,Mooney,Male,1987-05-03,hmyers@example.net,4386125904,Jazan,Southern,Saudi Arabia,Platinum,Website,True,True,2023-04-09
+492,Diane,Watson,Female,1978-05-26,david50@example.net,3795381649,Makkah,Western,Saudi Arabia,Platinum,Website,True,True,2021-12-11
+647,Jamie,Norris,Female,1962-04-26,adam35@example.org,3560229394,Taif,Western,Saudi Arabia,Silver,Website,True,True,2026-03-12
+710,Linda,Bryan,Male,1976-06-20,ambersmith@example.org,9947113633,Riyadh,Central,Saudi Arabia,Bronze,Store,True,True,2022-09-06
+895,Maria,Jones,Male,1971-10-30,triciaedwards@example.org,2417842902,Makkah,Western,Saudi Arabia,Gold,Website,True,True,2024-09-30
+994,Michael,Lindsey,Female,1980-06-05,bushcourtney@example.net,6154731566,Tabuk,Northern,Saudi Arabia,Bronze,Mobile App,True,True,2022-10-23
+309,Donald,Pierce,Male,1995-12-21,angel93@example.com,1509398343,Riyadh,Central,Saudi Arabia,Platinum,Mobile App,False,True,2026-01-31
+387,David,Silva,Male,1968-01-21,larry82@example.org,4954508920,Tabuk,Northern,Saudi Arabia,Bronze,Mobile App,False,False,2021-10-20
+665,Lindsay,Berg,Female,1962-01-14,mooreconnie@example.com,1910231211,Jeddah,Western,Saudi Arabia,Bronze,Website,False,True,2021-08-25
+885,Jason,Keith,Male,1964-10-24,samuel83@example.com,6806486067,Taif,Western,Saudi Arabia,Silver,Website,True,True,2026-01-17
+974,Sergio,Wood,Female,1962-04-08,williamsjason@example.net,6619953056,Makkah,Western,Saudi Arabia,Gold,Mobile App,True,True,2026-03-18
+620,Jacob,Kane,Female,1984-03-07,nhayes@example.com,8714855245,Makkah,Western,Saudi Arabia,Bronze,Website,True,True,2025-11-14
+621,Matthew,Stone,Female,1992-10-03,caseyronald@example.org,1371184254,Dammam,Eastern,Saudi Arabia,Gold,Mobile App,True,False,2024-12-03
+689,Malik,Fowler,Female,1995-09-18,zthompson@example.com,5427865619,Taif,Western,Saudi Arabia,Silver,Store,True,False,2024-04-14
+507,Matthew,Salazar,Male,1963-07-08,kpope@example.com,1072728498,Riyadh,Central,Saudi Arabia,Bronze,Website,False,True,2024-03-08
+563,Mary,Stewart,Male,1994-10-11,waremegan@example.org,2687741865,Madinah,Western,Saudi Arabia,Platinum,Website,True,True,2023-05-11
+741,Kristen,Kelly,Male,1984-03-14,gomezpaul@example.org,911225288,Riyadh,Central,Saudi Arabia,Platinum,Website,True,True,2024-08-27
+835,Brian,Marquez,Female,1980-10-14,christopher04@example.com,7436213009,Jeddah,Western,Saudi Arabia,Silver,Website,True,True,2022-02-02
+918,Bryan,Wilcox,Male,1961-09-29,lisa78@example.org,5580002722,Abha,Southern,Saudi Arabia,Platinum,Store,True,True,2022-12-23
+618,Melissa,Gonzalez,Female,1984-01-15,zacharytrujillo@example.org,1164913342,Jazan,Southern,Saudi Arabia,Gold,Website,True,True,2025-04-29
+807,Richard,Lawrence,Male,1969-06-19,matthewfranklin@example.net,1381865507,Makkah,Western,Saudi Arabia,Gold,Mobile App,False,True,2024-06-17
+267,Darrell,Collins,Female,1979-10-20,mcdanielbrooke@example.org,7018409435,Jeddah,Western,Saudi Arabia,Bronze,Store,True,True,2025-11-28
+458,John,Stout,Male,1964-11-06,hgarcia@example.org,9166010023,Khobar,Eastern,Saudi Arabia,Platinum,Mobile App,True,False,2021-12-10
+545,Darren,Gomez,Male,2008-04-04,garnerjeffrey@example.org,2854781506,Abha,Southern,Saudi Arabia,Platinum,Website,True,False,2025-03-29
+632,Regina,Graves,Female,1966-10-28,katherine82@example.com,3119642585,Madinah,Western,Saudi Arabia,Gold,Website,True,True,2024-06-29
+5,Stephen,Baker,Female,1980-03-06,julieryan@example.net,9653287101,Makkah,Western,Saudi Arabia,Gold,Mobile App,True,True,2026-02-26
+83,Dawn,Cole,Female,1965-01-18,david89@example.org,6801824225,Tabuk,Northern,Saudi Arabia,Platinum,Store,False,False,2026-06-12
+304,Marcia,Lam,Male,1983-09-06,zoliver@example.net,3711624112,Dammam,Eastern,Saudi Arabia,Gold,Store,True,False,2024-03-29
+396,Dawn,Hartman,Female,2001-03-09,coreyjones@example.org,5354443928,Madinah,Western,Saudi Arabia,Silver,Mobile App,True,True,2024-02-23
+649,Isaac,Murphy,Male,2003-12-27,stephanie64@example.net,4941163187,Riyadh,Central,Saudi Arabia,Silver,Website,True,True,2024-01-10
+822,Caitlin,Wolf,Female,1977-02-22,nhiggins@example.com,2988322012,Dammam,Eastern,Saudi Arabia,Bronze,Store,False,True,2024-12-01
+842,Sharon,Acevedo,Male,1966-01-19,younggabrielle@example.net,2117088948,Taif,Western,Saudi Arabia,Platinum,Website,True,True,2026-03-28
+931,Kyle,Wilson,Male,2003-11-21,sotopatrick@example.com,895231202,Makkah,Western,Saudi Arabia,Silver,Website,True,False,2025-01-27
+964,Stephen,Graham,Male,1994-05-14,michaelathompson@example.net,8963376185,Abha,Southern,Saudi Arabia,Bronze,Mobile App,True,False,2022-05-27
+969,Dana,Gallagher,Male,1974-05-29,olivia99@example.org,4729669417,Riyadh,Central,Saudi Arabia,Silver,Store,True,False,2023-10-05
+26,Nicole,Johnston,Male,2006-01-18,wsmith@example.com,6889373467,Jeddah,Western,Saudi Arabia,Platinum,Website,True,True,2021-09-05
+67,Mary,Haas,Female,1982-10-04,wagnergerald@example.org,7889255466,Jeddah,Western,Saudi Arabia,Silver,Store,True,True,2025-08-21
+674,John,Elliott,Male,1990-03-23,edwardsnicole@example.com,9518779417,Taif,Western,Saudi Arabia,Platinum,Mobile App,True,True,2025-08-25
+828,Kathy,Campbell,Female,1998-01-31,davisandrew@example.net,8250952294,Makkah,Western,Saudi Arabia,Bronze,Store,False,False,2022-02-06
+23,James,Horton,Male,1981-01-23,jross@example.net,1632870831,Taif,Western,Saudi Arabia,Silver,Mobile App,True,False,2024-09-24
+63,Ryan,Stevens,Male,1980-03-31,atkinsbarbara@example.net,6416052975,Makkah,Western,Saudi Arabia,Platinum,Website,False,True,2025-04-17
+82,Laura,Young,Male,1972-02-15,jjohnson@example.net,7829114678,Tabuk,Northern,Saudi Arabia,Bronze,Mobile App,True,True,2026-07-05
+266,Kimberly,Gentry,Male,1966-11-10,zhunter@example.com,3578452182,Jeddah,Western,Saudi Arabia,Silver,Mobile App,False,True,2025-07-05
+310,Susan,Daugherty,Female,2001-07-04,ulee@example.net,5626565045,Madinah,Western,Saudi Arabia,Silver,Mobile App,True,True,2024-12-19
+359,Robert,Chaney,Female,1990-01-20,jimmy80@example.org,4522801561,Dammam,Eastern,Saudi Arabia,Silver,Website,True,True,2022-02-01
+815,Christina,Cruz,Male,1974-12-13,sthomas@example.org,7746202582,Madinah,Western,Saudi Arabia,Gold,Mobile App,True,True,2024-03-07
+661,Olivia,Jones,Female,2003-03-17,clairebyrd@example.org,3541597099,Makkah,Western,Saudi Arabia,Platinum,Website,True,True,2026-07-10
+736,Allison,Garza,Female,1974-06-08,ryandodson@example.org,9848704506,Khobar,Eastern,Saudi Arabia,Platinum,Mobile App,True,True,2023-07-15
+966,Sharon,Doyle,Male,1986-06-01,sullivanpaula@example.com,1065920881,Dammam,Eastern,Saudi Arabia,Gold,Store,True,True,2023-03-18
+64,Alexandria,Foster,Female,1973-01-07,julie35@example.org,8188355231,Madinah,Western,Saudi Arabia,Gold,Mobile App,True,True,2024-07-11
+193,Ruth,Landry,Male,1993-08-30,uscott@example.com,8588770435,Makkah,Western,Saudi Arabia,Gold,Website,True,True,2023-03-10
+383,Ashley,Johnson,Female,1970-09-24,tiffanycoleman@example.org,3254110760,Makkah,Western,Saudi Arabia,Platinum,Website,False,True,2021-12-28
+450,Marc,Mitchell,Female,1961-08-11,rebekah16@example.org,7554110825,Madinah,Western,Saudi Arabia,Silver,Website,False,True,2024-11-19

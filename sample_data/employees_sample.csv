@@ -1,0 +1,101 @@
+EmployeeID,EmployeeName,StoreID,Department,Position,HireDate,Salary
+10,Laura Harris,1,Management,Supervisor,2018-05-11,16536
+65,Sarah Cruz,5,Management,Supervisor,2024-02-11,13953
+197,Mr. Darren Smith,16,Operations,Inventory Clerk,2018-06-10,5661
+200,Evelyn Townsend,16,Sales,Senior Sales Associate,2020-07-11,7729
+256,Danny Roach,20,Management,Supervisor,2020-01-26,15647
+217,David Graham,17,Operations,Cashier,2017-05-09,5095
+26,Cody Johnson PhD,2,Management,Supervisor,2019-09-30,12306
+129,Darin Byrd,10,Sales,Sales Associate,2024-06-22,5536
+138,Shelia Cruz,11,Sales,Senior Sales Associate,2026-06-17,9024
+141,Brandon Hill,11,Operations,Cashier,2025-12-19,5356
+152,Sara Mills,12,Sales,Sales Associate,2016-08-13,5964
+165,Willie Morrison,13,Operations,Inventory Clerk,2024-03-20,6896
+215,Matthew Morris,17,Sales,Senior Sales Associate,2021-01-31,9770
+249,Nathan Wagner,20,Operations,Cashier,2022-01-17,6259
+30,Samantha Malone,3,Sales,Sales Associate,2019-07-07,5648
+213,Natalie Krueger,17,Management,Supervisor,2019-11-09,15489
+2,Misty Kelly,1,Management,Supervisor,2021-03-15,12975
+115,Lisa Ramos,10,Operations,Inventory Clerk,2026-07-24,6620
+203,Adam Delgado,16,Sales,Senior Sales Associate,2020-05-10,8167
+97,Kelly Ellis,8,Operations,Cashier,2016-11-17,5018
+149,Jacob Smith,12,Management,Supervisor,2017-10-15,15467
+208,Jennifer Powers,17,Operations,Cashier,2016-11-19,6204
+101,Jacqueline Jimenez,8,Management,Supervisor,2020-11-16,15182
+44,Lawrence Herrera,4,Sales,Senior Sales Associate,2020-09-19,7275
+55,Tony Williams,4,Operations,Inventory Clerk,2018-02-28,5548
+102,Courtney Briggs,9,Management,Store Manager,2025-04-12,21219
+250,Aaron Goodman,20,Management,Supervisor,2026-07-10,15941
+140,Ronald Dean,11,Management,Supervisor,2025-09-16,14318
+70,Tiffany Bender DVM,6,Operations,Cashier,2022-01-22,4913
+156,Steven Rhodes,13,Sales,Senior Sales Associate,2025-05-17,7541
+32,Alexis Peterson,3,Operations,Cashier,2018-09-24,6155
+161,Holly Bell,13,Management,Supervisor,2025-04-03,16345
+212,Sandra Ingram,17,Sales,Senior Sales Associate,2021-04-29,9514
+170,Frank Fitzgerald,14,Management,Supervisor,2024-12-20,12435
+52,Patricia Dunlap,4,Operations,Cashier,2018-08-07,6304
+88,Chad Perez,8,Management,Store Manager,2025-07-15,21600
+20,John Jacobs,2,Management,Supervisor,2016-11-18,14827
+72,Rose Compton,6,Management,Supervisor,2021-09-25,14275
+77,Ellen Kaufman,7,Management,Store Manager,2016-11-07,21334
+158,Craig Morgan,13,Management,Supervisor,2018-11-07,13391
+176,Kathy Robinson,14,Sales,Senior Sales Associate,2016-09-07,9904
+11,Jon Evans,2,Management,Store Manager,2016-04-24,22687
+194,Dalton Serrano,15,Management,Supervisor,2021-03-22,14661
+19,Christina Mullen,2,Management,Supervisor,2022-06-02,15117
+96,Jeffery Johnson,8,Management,Supervisor,2017-06-08,12447
+182,Crystal Pierce,14,Management,Supervisor,2017-07-08,16614
+186,Patrick Rocha,15,Operations,Cashier,2017-09-11,6317
+54,David Fernandez,4,Sales,Sales Associate,2021-09-06,6353
+253,Linda Martin,20,Management,Supervisor,2024-04-19,14465
+110,Christopher Bentley,9,Management,Supervisor,2024-02-25,16147
+84,Anna Hunter,7,Operations,Inventory Clerk,2025-10-16,6650
+257,Daniel Smith,20,Sales,Senior Sales Associate,2018-04-05,7080
+8,Kimberly Owens,1,Sales,Sales Associate,2022-06-16,5639
+232,Olivia Dorsey,19,Management,Store Manager,2024-04-04,22810
+248,Deborah Curry,20,Management,Supervisor,2022-06-13,12130
+145,Mark Hughes,12,Sales,Sales Associate,2025-11-09,5757
+41,Brian Andrews,4,Sales,Senior Sales Associate,2017-09-08,7925
+79,David Gutierrez,7,Operations,Cashier,2016-11-18,4983
+211,Debbie Reed,17,Sales,Senior Sales Associate,2016-11-01,7369
+80,Tony Lawson,7,Management,Supervisor,2019-02-01,16275
+42,Kimberly Nielsen,4,Operations,Cashier,2017-06-29,5969
+61,Danielle Carter,5,Sales,Senior Sales Associate,2023-09-23,8305
+174,Samuel Warner,14,Operations,Inventory Clerk,2023-07-14,5893
+227,Christine Gates,18,Sales,Sales Associate,2018-05-17,6574
+74,Tiffany Miller,6,Management,Supervisor,2017-07-18,12163
+183,Robert Gilmore,15,Management,Store Manager,2017-11-24,22780
+21,David Cook,2,Sales,Senior Sales Associate,2024-07-24,8438
+146,Teresa Sutton,12,Operations,Inventory Clerk,2022-10-02,5175
+189,Mr. Jack Moore PhD,15,Sales,Sales Associate,2022-12-24,6714
+178,Emily Perez,14,Sales,Sales Associate,2018-01-21,6732
+244,Gregory Williams,19,Operations,Inventory Clerk,2026-05-02,6414
+151,Alison Livingston,12,Management,Supervisor,2022-03-01,12426
+179,Benjamin Alvarez,14,Operations,Cashier,2020-03-25,4753
+126,Robert Miranda,10,Sales,Sales Associate,2017-08-05,5805
+207,Joseph Bowen,17,Operations,Cashier,2024-12-10,5235
+180,Krista Price,14,Sales,Sales Associate,2019-06-29,5417
+57,Miguel Smith,5,Management,Store Manager,2015-05-17,22278
+205,George Barber,16,Sales,Senior Sales Associate,2026-04-03,8770
+226,Christopher Garcia,18,Sales,Senior Sales Associate,2020-10-30,8455
+31,Stephanie White,3,Sales,Senior Sales Associate,2018-01-09,8320
+142,Thomas Wells,12,Management,Store Manager,2015-12-26,21346
+241,Mrs. Melissa Robinson,19,Management,Supervisor,2022-08-19,15769
+157,Victoria King,13,Operations,Cashier,2021-06-27,5688
+201,Vicki Barry,16,Management,Supervisor,2018-06-11,12730
+16,Michael Jackson,2,Sales,Sales Associate,2025-12-04,5057
+136,Eric Manning,11,Sales,Senior Sales Associate,2021-11-11,7485
+236,Jamie Walker,19,Management,Supervisor,2017-09-18,12640
+235,Cody Conley,19,Sales,Senior Sales Associate,2018-06-02,7766
+14,Corey Reyes,2,Sales,Senior Sales Associate,2020-11-24,9420
+90,Zachary Smith,8,Management,Supervisor,2019-07-13,16370
+108,Nicholas Vasquez,9,Sales,Senior Sales Associate,2018-01-26,8691
+255,Andrew Green,20,Sales,Sales Associate,2022-04-23,5238
+6,Maria Brown,1,Operations,Inventory Clerk,2021-05-30,6811
+99,Nicholas Schaefer,8,Operations,Inventory Clerk,2020-11-08,6849
+231,Joshua Oneill,18,Management,Supervisor,2021-02-01,14438
+34,Monica Aguilar,3,Operations,Cashier,2019-08-20,5188
+122,Jamie Hernandez,10,Sales,Senior Sales Associate,2017-09-08,8959
+243,Angie Jacobson,19,Operations,Inventory Clerk,2017-10-05,5620
+49,Vanessa Rodriguez,4,Operations,Inventory Clerk,2016-11-27,5409
+164,Carla Holloway,13,Management,Supervisor,2020-06-28,14301

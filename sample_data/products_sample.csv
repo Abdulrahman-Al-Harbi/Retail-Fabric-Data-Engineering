@@ -1,0 +1,101 @@
+ProductID,ProductName,Category,SubCategory,Brand,Supplier,Cost,UnitPrice,StockQuantity
+293,AirPods Pro,Electronics,Headphones,Apple,TechSource,923,1281.57,70
+77,iPhone 16 Pro Max 1TB White,Electronics,Smartphone,Apple,Prime Distribution,5589,7030.92,110
+151,Pixel 9 512GB Black,Electronics,Smartphone,Google,Future Electronics,4331,5940.33,32
+20,iPhone 16 1TB Gray,Electronics,Smartphone,Apple,Global Supplies,5470,7247.0,268
+169,Pixel 9 Pro 256GB Blue,Electronics,Smartphone,Google,TechSource,4441,5774.59,260
+89,Galaxy S25 256GB Blue,Electronics,Smartphone,Samsung,Future Electronics,4647,5714.84,139
+160,Pixel 9 1TB Gray,Electronics,Smartphone,Google,Global Supplies,2661,3252.26,258
+248,Yoga 9i 8GB RAM,Electronics,Laptop,Lenovo,TechSource,3383,4341.98,79
+68,iPhone 16 Pro Max 256GB Silver,Electronics,Smartphone,Apple,Global Supplies,2604,3470.93,97
+81,Galaxy S25 128GB Black,Electronics,Smartphone,Samsung,Smart Retail,2797,3851.59,396
+287,"Odyssey G7 24""""",Electronics,Monitor,Samsung,Smart Retail,2144,2625.44,391
+186,Xiaomi 15 256GB Black,Electronics,Smartphone,Xiaomi,Global Supplies,3514,4376.18,167
+254,iPad Air,Electronics,Tablet,Apple,Prime Distribution,1978,2495.22,86
+296,Coffee Machine 5400,Home Appliances,Kitchen,Philips,Future Electronics,879,1081.65,339
+146,Pixel 9 256GB Black,Electronics,Smartphone,Google,Smart Retail,5303,7234.66,273
+25,iPhone 16 Plus 128GB Gray,Electronics,Smartphone,Apple,Global Supplies,3069,4087.39,433
+291,Xbox Series X,Electronics,Gaming,Microsoft,Smart Retail,2307,2897.08,75
+15,iPhone 16 512GB Gray,Electronics,Smartphone,Apple,Global Supplies,3895,5422.29,168
+28,iPhone 16 Plus 256GB Silver,Electronics,Smartphone,Apple,Future Electronics,2795,3894.75,498
+257,Galaxy Tab A9,Electronics,Tablet,Samsung,Future Electronics,1854,2264.78,323
+125,Galaxy S25 Ultra 128GB Gray,Electronics,Smartphone,Samsung,Global Supplies,3785,4859.23,137
+14,iPhone 16 512GB Blue,Electronics,Smartphone,Apple,Global Supplies,4371,5746.96,235
+84,Galaxy S25 128GB Blue,Electronics,Smartphone,Samsung,Future Electronics,4042,4901.32,349
+212,Xiaomi 15 Ultra 512GB White,Electronics,Smartphone,Xiaomi,Smart Retail,3055,4103.45,209
+38,iPhone 16 Plus 1TB Silver,Electronics,Smartphone,Apple,Future Electronics,5229,6604.95,369
+74,iPhone 16 Pro Max 512GB Blue,Electronics,Smartphone,Apple,TechSource,5242,6607.88,343
+109,Galaxy S25+ 256GB Blue,Electronics,Smartphone,Samsung,Global Supplies,2969,3685.22,287
+230,XPS 15 8GB RAM,Electronics,Laptop,Dell,Global Supplies,4454,5370.14,272
+93,Galaxy S25 512GB Silver,Electronics,Smartphone,Samsung,Global Supplies,3155,4185.21,440
+13,iPhone 16 512GB Silver,Electronics,Smartphone,Apple,Future Electronics,2494,3226.67,483
+189,Xiaomi 15 256GB Blue,Electronics,Smartphone,Xiaomi,Prime Distribution,4642,5835.22,449
+214,Xiaomi 15 Ultra 512GB Blue,Electronics,Smartphone,Xiaomi,Smart Retail,3889,4906.43,467
+174,Pixel 9 Pro 512GB Blue,Electronics,Smartphone,Google,TechSource,3182,4001.92,75
+246,ThinkPad X1 16GB RAM,Electronics,Laptop,Lenovo,Future Electronics,4261,5821.87,334
+264,"QNED85 75""""",Electronics,TV,LG,Future Electronics,4635,5710.84,419
+67,iPhone 16 Pro Max 256GB White,Electronics,Smartphone,Apple,TechSource,4488,5519.21,497
+76,iPhone 16 Pro Max 1TB Black,Electronics,Smartphone,Apple,Smart Retail,3842,4672.22,409
+11,iPhone 16 512GB Black,Electronics,Smartphone,Apple,Future Electronics,5045,6598.05,179
+82,Galaxy S25 128GB White,Electronics,Smartphone,Samsung,Prime Distribution,3226,3961.49,32
+265,"QNED85 85""""",Electronics,TV,LG,Future Electronics,7718,10207.76,311
+282,"UltraSharp 32 27""""",Electronics,Monitor,Dell,Smart Retail,1994,2464.3,364
+31,iPhone 16 Plus 512GB Black,Electronics,Smartphone,Apple,Future Electronics,5061,6242.52,395
+183,Xiaomi 15 128GB Silver,Electronics,Smartphone,Xiaomi,Future Electronics,4880,6505.87,451
+283,"UltraSharp 32 32""""",Electronics,Monitor,Dell,Future Electronics,919,1175.65,357
+85,Galaxy S25 128GB Gray,Electronics,Smartphone,Samsung,Smart Retail,3710,4822.77,28
+193,Xiaomi 15 512GB Silver,Electronics,Smartphone,Xiaomi,TechSource,3290,4318.12,360
+270,"Crystal UHD 55""""",Electronics,TV,Samsung,Smart Retail,5880,8057.13,207
+277,"Bravia XR 85""""",Electronics,TV,Sony,Global Supplies,7665,9260.25,272
+295,Air Fryer XL,Home Appliances,Kitchen,Philips,Smart Retail,264,368.13,329
+108,Galaxy S25+ 256GB Silver,Electronics,Smartphone,Samsung,Smart Retail,5290,7202.24,374
+191,Xiaomi 15 512GB Black,Electronics,Smartphone,Xiaomi,Global Supplies,3424,4188.86,314
+285,"UltraGear 27 27""""",Electronics,Monitor,LG,Prime Distribution,905,1220.2,53
+136,Galaxy S25 Ultra 1TB Black,Electronics,Smartphone,Samsung,Future Electronics,3658,4831.22,483
+199,Xiaomi 15 1TB Blue,Electronics,Smartphone,Xiaomi,Global Supplies,3806,5059.88,262
+204,Xiaomi 15 Ultra 128GB Blue,Electronics,Smartphone,Xiaomi,Future Electronics,3711,4471.6,450
+23,iPhone 16 Plus 128GB Silver,Electronics,Smartphone,Apple,TechSource,3577,4906.11,399
+60,iPhone 16 Pro 1TB Gray,Electronics,Smartphone,Apple,Global Supplies,3507,4878.66,111
+120,Galaxy S25+ 1TB Gray,Electronics,Smartphone,Samsung,Global Supplies,3308,4257.18,335
+135,Galaxy S25 Ultra 512GB Gray,Electronics,Smartphone,Samsung,Global Supplies,4163,5138.14,132
+61,iPhone 16 Pro Max 128GB Black,Electronics,Smartphone,Apple,Prime Distribution,4254,5163.84,332
+284,"UltraGear 27 24""""",Electronics,Monitor,LG,Smart Retail,837,1024.36,225
+21,iPhone 16 Plus 128GB Black,Electronics,Smartphone,Apple,TechSource,2787,3415.09,455
+223,MacBook Air M4 32GB RAM,Electronics,Laptop,Apple,Prime Distribution,7102,9595.15,122
+226,MacBook Pro M4 32GB RAM,Electronics,Laptop,Apple,Smart Retail,4939,6414.87,134
+83,Galaxy S25 128GB Silver,Electronics,Smartphone,Samsung,Prime Distribution,5398,7553.3,270
+298,Markus Chair,Furniture,Furniture,IKEA,Prime Distribution,1218,1654.71,170
+215,Xiaomi 15 Ultra 512GB Gray,Electronics,Smartphone,Xiaomi,Smart Retail,4747,5779.57,399
+2,iPhone 16 128GB White,Electronics,Smartphone,Apple,Smart Retail,3905,4862.3,329
+26,iPhone 16 Plus 256GB Black,Electronics,Smartphone,Apple,Prime Distribution,3168,3967.13,268
+92,Galaxy S25 512GB White,Electronics,Smartphone,Samsung,Prime Distribution,3444,4615.85,27
+46,iPhone 16 Pro 256GB Black,Electronics,Smartphone,Apple,TechSource,4693,5641.53,445
+196,Xiaomi 15 1TB Black,Electronics,Smartphone,Xiaomi,TechSource,3685,4511.54,227
+86,Galaxy S25 256GB Black,Electronics,Smartphone,Samsung,Global Supplies,2601,3297.7,423
+162,Pixel 9 Pro 128GB White,Electronics,Smartphone,Google,TechSource,5104,6695.21,307
+269,"Neo QLED QN90 85""""",Electronics,TV,Samsung,Prime Distribution,7692,9382.22,491
+3,iPhone 16 128GB Silver,Electronics,Smartphone,Apple,Prime Distribution,2480,3262.66,384
+115,Galaxy S25+ 512GB Gray,Electronics,Smartphone,Samsung,Future Electronics,4985,6342.82,279
+218,Xiaomi 15 Ultra 1TB Silver,Electronics,Smartphone,Xiaomi,Future Electronics,4146,5090.93,326
+202,Xiaomi 15 Ultra 128GB White,Electronics,Smartphone,Xiaomi,Smart Retail,5272,6444.83,480
+42,iPhone 16 Pro 128GB White,Electronics,Smartphone,Apple,Global Supplies,3543,4820.12,355
+71,iPhone 16 Pro Max 512GB Black,Electronics,Smartphone,Apple,TechSource,4236,5425.39,296
+294,Galaxy Buds 3 Pro,Electronics,Headphones,Samsung,TechSource,1035,1252.94,275
+56,iPhone 16 Pro 1TB Black,Electronics,Smartphone,Apple,Global Supplies,4307,5963.21,413
+152,Pixel 9 512GB White,Electronics,Smartphone,Google,Prime Distribution,4313,5575.64,467
+229,XPS 13 32GB RAM,Electronics,Laptop,Dell,Smart Retail,4806,6168.17,484
+252,IdeaPad Slim 16GB RAM,Electronics,Laptop,Lenovo,Global Supplies,5252,6483.29,34
+121,Galaxy S25 Ultra 128GB Black,Electronics,Smartphone,Samsung,TechSource,5556,7170.74,399
+144,Pixel 9 128GB Blue,Electronics,Smartphone,Google,Future Electronics,4377,5894.49,37
+243,Pavilion 15 16GB RAM,Electronics,Laptop,HP,Future Electronics,3627,4361.76,164
+205,Xiaomi 15 Ultra 128GB Gray,Electronics,Smartphone,Xiaomi,TechSource,3352,4321.38,187
+72,iPhone 16 Pro Max 512GB White,Electronics,Smartphone,Apple,Smart Retail,3375,4052.23,82
+27,iPhone 16 Plus 256GB White,Electronics,Smartphone,Apple,TechSource,3190,4338.0,195
+94,Galaxy S25 512GB Blue,Electronics,Smartphone,Samsung,Prime Distribution,2848,3677.44,447
+35,iPhone 16 Plus 512GB Gray,Electronics,Smartphone,Apple,Smart Retail,4005,5353.49,262
+187,Xiaomi 15 256GB White,Electronics,Smartphone,Xiaomi,Global Supplies,2643,3250.01,253
+201,Xiaomi 15 Ultra 128GB Black,Electronics,Smartphone,Xiaomi,Smart Retail,3052,4150.46,193
+197,Xiaomi 15 1TB White,Electronics,Smartphone,Xiaomi,Smart Retail,4495,6084.9,495
+198,Xiaomi 15 1TB Silver,Electronics,Smartphone,Xiaomi,Future Electronics,3761,4630.58,279
+241,Envy 14 32GB RAM,Electronics,Laptop,HP,Global Supplies,5092,6998.9,158
+55,iPhone 16 Pro 512GB Gray,Electronics,Smartphone,Apple,TechSource,3656,4728.64,347
